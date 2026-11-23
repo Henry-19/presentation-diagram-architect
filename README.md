@@ -1,6 +1,16 @@
 # Presentation & Diagram Architect
 
+[![GitHub Stars](https://img.shields.io/github/stars/Henry-19/presentation-diagram-architect?style=for-the-badge&logo=github)](https://github.com/Henry-19/presentation-diagram-architect)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![skills.sh](https://img.shields.io/badge/skills.sh-Compatible-0a0a0a.svg?style=for-the-badge)](https://skills.sh)
+
 A production-grade AI Agent Skill synthesized via **Meta-Skill Synthesizer** for creating Canva-ready presentations (`.pptx`), native Draw.io diagrams (`.drawio` + `.png`), and curated royalty-free visual decor.
+
+## ⚡ Quick Install
+
+```bash
+npx skills add Henry-19/presentation-diagram-architect -g
+```
 
 ---
 
